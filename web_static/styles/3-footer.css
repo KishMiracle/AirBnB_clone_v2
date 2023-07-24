@@ -1,4 +1,5 @@
 footer {
+<<<<<<< HEAD
 	position: fixed;
 	bottom: 0;
 	background-color: white;
@@ -7,4 +8,20 @@ footer {
 	text-align: center;
 	line-height: 30px;
 	border-top: 1px solid #CCCCCC;
+=======
+    position: fixed;
+    background: white;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+    border-top: 1px solid #CCCCCC;
+}
+footer p {
+    position: absolute;
+    text-align: center;
+    top: 10%;
+    bottom: 0;
+    right: 0;
+    left: 0;
+>>>>>>> e6b3d3489ff16aa372d5bf7d1090bd04b06cf8bb
 }
